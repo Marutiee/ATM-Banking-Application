@@ -1,2 +1,2 @@
-Java-Based ATM Banking Application (Console)
+Java-Based ATM Banking Application (Console) <br>
 Developed a console-driven ATM simulation system that enables secure user authentication and core banking operations. The application implements PIN-based login, balance inquiry, deposits, withdrawals, and transaction history tracking. Built using Object-Oriented Programming principles with modular classes such as Account and ATM. Integrated Java Collections (HashMap, ArrayList) for efficient data storage and retrieval, and implemented exception handling to ensure smooth and error-free user interactions. This project demonstrates strong understanding of Java fundamentals, OOP design, exception management, and user-friendly console workflows.
